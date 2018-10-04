@@ -53,6 +53,20 @@
            stable strategy is that it cannot be invaded by any mutant strategy,and this can only be established.
        - 3.noise解決惡性循環？突然把Tit for tat的問題跳出。
        - 4.對抗全球暖化，兩個社會或多國之間如何合作解決氣候變遷？減碳？
+ 
+ ## 第三周：結構洞
+ 
+- 弱連結和強連結：strong and weak ties，雖然weak ties弱，雖然訊息傳不快，但有更多元的資訊流通。
+- 兩個網絡間不相連，謂之結構洞，spanning the structure hole
+- 組織社會學？經濟社會學？
+- 結構洞位置愈好、constrain值愈低，則人緣和薪水都比較好。
+- 經濟學96年開始把均衡的東西帶進社會網絡
+- 網絡穩定的時候，沒有一個人可以，建新的一條線或減少一條線，來不損害別人的利益？
+- 列出了幾個穩定網絡
+- vincent的文章可以當作期末操作指南。
+- 組織社會學，結構洞？組織的網絡。
+- community detection，分群與社會網絡？
+
       
     
   
