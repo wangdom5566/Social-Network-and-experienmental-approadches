@@ -91,6 +91,19 @@
 - fairness的現代文明，大概就是對分到30%
 - Henrich則提到原始社會的公平感、手足和連帶，Henrich做的實驗意義在，原是部落不見得公平和在乎正義感？
 - 演化心理學，90-2000年的時候，認為遺傳影響現代一個行為，一些原始的遺留。
+## 第七周：網絡與傳播
+- centola。重複的訊息和反複核查才是弱連帶理論窯論Granovatter，complex contagion和structure。
+- segregation model和agent base model的風潮，引起風潮。
+- 和早期的社會學家，還有很多做擴散理論、傳播學界、公衛學界對話。
+- coleman做醫療社會學研究出的credibility？
+- legitimacy和credibility很像？人多一點會有大一點的正當性。另外還有emotion contagion的傳染？
+- 一個人不夠，三四個人感染。光談simple和complex就可以花上一頁。
+- long ties和short ties的差別。
+- 橋梁比較多在Random少在真實世界？random type會比較多。
+- reduntant的多餘姓？門檻、還有多餘影響？把東西傳出去。
+- p=0是lattice，很局部的狀況，也許會有很多的門檻需要克服。
+- p=1是random的結構，傳染或公共衛生模型的門檻。
+- 
 
 
       
