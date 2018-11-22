@@ -136,6 +136,7 @@
 - 目前出現的收斂很常往兩極化的狀況。
 - 真實世界上可能要反過來推，測一下兩者之間的影響力，指標怎麼做。
 - 股票的狀況？集體的行為。
+- 影響的網絡https://scholar.google.com.tw/citations?user=uPCKsFEAAAAJ&hl=zh-TW
 
 
       
