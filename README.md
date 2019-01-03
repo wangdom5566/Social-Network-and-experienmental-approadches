@@ -242,6 +242,20 @@
 - 把確定是真人的資料找出來，把他們的屬性歸類，和機器人比對？
 - 
 
+## 第十四周 
+- 1月21號前交期末報告。
+- 在歐洲，美國的移民社會，ethnic diversity，讀下來少數直接的field experienment。
+- 撿起一封信封傳回去，是否算合作？間接的名聲誘因？不完全合作。
+- Massey & Denton 的指標。
+- 第二篇文章族群多元性又回到Micro到Macro的重心。
+- 每個人都會犯錯，但同質性的犯錯結果會擴大，異質性的犯錯反而會制衡？
+- field experienment，政治學比較主流。
+- 發展經濟學做了不少這種field experienment。
+- jeremy freese，population survey的調查？
+- Grusky
+- 實驗要盡量全面周到
+- 受試者選取、實驗設計、實驗的Repeat的學習效果？收斂也不一定有標準答案。
+- 
 
 
 
